@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Tomas Araujo
+Cybernetic Electronics Engineer with experience at Fullstack Development, Embedded Systems, Microcontrollers & Electronics
 - 🌱 I’m currently learning Kernel Development
 - 👯 I’m looking to collaborate on Emebedded Systems
 - 📫 How to reach me: ingtom91@gmail.com
