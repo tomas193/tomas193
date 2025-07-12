@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 My name is Tomas Araujo,
 
 Cybernetic Electronics Engineer with experience at Fullstack Development, Embedded Systems, Microcontrollers & Electronics
