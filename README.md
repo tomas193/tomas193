@@ -13,7 +13,7 @@ Software Engineer with experience at Embedded Systems, Edge Computing & Fullstac
 
 
 <a href="https://tomas193.github.io/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas193&hide=HTML,PostScript,Java,CSS,SCSS&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas193&hide=Kotlin,HTML,PostScript,Java,CSS,SCSS&layout=compact" />
 </a>
 
 <!--
