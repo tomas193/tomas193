@@ -6,6 +6,16 @@ Software Engineer with experience at Embedded Systems, Edge Computing & Fullstac
 - 📚 I’m currently working in an AI compiler at my job in Synaptics.
 - 👨‍💻 I'm interested in AI, Compilers and Edge Computing. 
 - 📫 How to reach me: ingtom91@gmail.com
+
+<a href="https://tomas193/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tomas193&count_private=true&show_icons=true" />
+</a>  
+
+
+<a href="https://atabakp.github.io/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas193&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
+</a>
+
 <!--
 **tomas193/tomas193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
