@@ -12,7 +12,7 @@ Software Engineer with experience at Embedded Systems, Edge Computing & Fullstac
 </a>  
 
 
-<a href="https://atabakp.github.io/">
+<a href="https://tomas193.github.io/">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas193&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
 </a>
 
