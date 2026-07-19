@@ -1,5 +1,5 @@
 ## Hi there 
-My name is Tomas Araujo,
+My name is Tomás Araujo,
 
 Software Engineer with experience at Embedded Systems, Edge Computing & Fullstack development.
 - Cybernetic Electronics Engineering (2020-2024), CETYS Universidad.
