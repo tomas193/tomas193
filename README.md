@@ -1,18 +1,18 @@
 ## Hi there 
-My name is Tomás Araujo,
+My name is Tomás Araujo.
 
-Software Engineer with experience at Embedded Systems, Edge Computing & Fullstack development.
+I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML Systems & Compilers.
 - Cybernetic Electronics Engineering (2020-2024), CETYS Universidad.
-- 📚 I’m currently working in an AI compiler (IREE/MLIR) at my job in Synaptics.
+- 📚 I’m currently working on an AI compiler (IREE/MLIR) at Synaptics.
 - 👨‍💻 I'm interested in AI, Compilers and Edge Computing. 
 - 📫 How to reach me: ingtom91@gmail.com
 
-<a href="https://tomas193/">
+<a href="https://github.com/tomas193">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tomas193&count_private=true&show_icons=true" />
 </a>  
 
 
-<a href="https://tomas193.github.io/">
+<a href="https://github.com/tomas193">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas193&hide=Kotlin,HTML,PostScript,Java,CSS,SCSS&layout=compact" />
 </a>
 
