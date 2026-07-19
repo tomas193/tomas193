@@ -3,7 +3,7 @@ My name is Tomás Araujo,
 
 Software Engineer with experience at Embedded Systems, Edge Computing & Fullstack development.
 - Cybernetic Electronics Engineering (2020-2024), CETYS Universidad.
-- 📚 I’m currently working in an AI compiler at my job in Synaptics.
+- 📚 I’m currently working in an AI compiler (IREE/MLIR) at my job in Synaptics.
 - 👨‍💻 I'm interested in AI, Compilers and Edge Computing. 
 - 📫 How to reach me: ingtom91@gmail.com
 
