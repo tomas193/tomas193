@@ -1,5 +1,4 @@
 ## Hi there 
-My name is Tomás Araujo.
 
 I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML Systems & Compilers.
 - Cybernetic Electronics Engineering (2020-2024), CETYS Universidad.
