@@ -3,20 +3,8 @@
 I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML Systems & Full Stack.
 - Cybernetic Electronics Engineering (2020-2024), CETYS Universidad.
 - I'm interested in AI, Compilers and Edge Computing.
-- Contributed to the open-source [Torq compiler](https://github.com/synaptics-torq). Relevant commits:
-- [Add tool for TFLite static conversion](https://github.com/synaptics-torq/torq-tools/commit/4860ec7513dac7bb99295c94ed6a5724ac257e96)
-- [[Compiler] transform optimize pow(x, 0.5) to sqrt for propper NSS support](https://github.com/synaptics-torq/torq-compiler/commit/2d6c61d5daf8d704f0cfe355c008e79f2bb66b53)
-- [[Compiler] Remove unused TosaToTorqHL patterns](https://github.com/synaptics-torq/torq-compiler/commit/fd8755318af365b98eb3b1b276643fd4272f7d34)
-- [[Compiler] Remove PromoteScalarsTo1D pattern](https://github.com/synaptics-torq/torq-compiler/commit/eff44d1f2dab6120a232765f1d877cfe7046ac03)
-- [[Testing] Add cache to ONNX per-layer test case generation](https://github.com/synaptics-torq/torq-compiler/commit/c4947ee10bb48367160d0acdfb458d1ce66b38d9)
-- [[Testing] Load ONNX models only during test execution](https://github.com/synaptics-torq/torq-compiler/commit/76285f5d466b5a79ae0a347d4d184f3d05759961)
-
-<!--
-**tomas193/tomas193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- ⚡ Fun fact: ...
--->
+- Contributed to the open-source [Torq Compiler](https://github.com/synaptics-torq) — an NPU compiler built on MLIR/IREE — as [tomas-synaptics](https://github.com/tomas-synaptics). Selected work:
+  - **Tooling** — built a tool for [static conversion of TFLite models](https://github.com/synaptics-torq/torq-tools/commit/4860ec7513dac7bb99295c94ed6a5724ac257e96) into the compiler pipeline (moved to the [torq-compiler](https://github.com/synaptics-torq/torq-compiler/blob/main/python/torq/lab/model_tools/shape_conversion/tflite.py) repo).
+  - **Compiler optimization** — added a transform that [rewrites `pow(x, 0.5)` as `sqrt`](https://github.com/synaptics-torq/torq-compiler/commit/2d6c61d5daf8d704f0cfe355c008e79f2bb66b53) to enable correct NSS hardware support.
+  - **Pass-pipeline cleanup** — removed dead lowering paths ([unused TosaToTorqHL patterns](https://github.com/synaptics-torq/torq-compiler/commit/fd8755318af365b98eb3b1b276643fd4272f7d34), [PromoteScalarsTo1D](https://github.com/synaptics-torq/torq-compiler/commit/eff44d1f2dab6120a232765f1d877cfe7046ac03)) to simplify the compiler and solve bugs.
+  - **Test infrastructure** — sped up ONNX per-layer testing with [result caching](https://github.com/synaptics-torq/torq-compiler/commit/c4947ee10bb48367160d0acdfb458d1ce66b38d9) and [lazy model loading](https://github.com/synaptics-torq/torq-compiler/commit/76285f5d466b5a79ae0a347d4d184f3d05759961).
