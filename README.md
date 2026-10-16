@@ -9,7 +9,7 @@ I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML 
   - **Pass-pipeline cleanup.** Removed dead lowering paths ([unused TosaToTorqHL patterns](https://github.com/synaptics-torq/torq-compiler/commit/fd8755318af365b98eb3b1b276643fd4272f7d34), [PromoteScalarsTo1D](https://github.com/synaptics-torq/torq-compiler/commit/eff44d1f2dab6120a232765f1d877cfe7046ac03)) to simplify the compiler and solve bugs.
   - **Test infrastructure.** Sped up ONNX per-layer testing with [result caching](https://github.com/synaptics-torq/torq-compiler/commit/c4947ee10bb48367160d0acdfb458d1ce66b38d9) and [lazy model loading](https://github.com/synaptics-torq/torq-compiler/commit/76285f5d466b5a79ae0a347d4d184f3d05759961).
 
-- Founder of [Cardify](https://github.com/cardify-mx) — a school attendance and credential-management platform in production across multiple schools, built with Node, JavaScript and Python. ([website](https://cardify.mx))
+- Founder of [Cardify](https://github.com/cardify-mx) (since 2024), a school attendance and credential-management platform in production across multiple schools, built with Node, JavaScript and Python. ([website](https://cardify.mx))
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
