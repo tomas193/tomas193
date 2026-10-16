@@ -12,5 +12,5 @@ I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
