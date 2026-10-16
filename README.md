@@ -10,8 +10,6 @@ I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML 
   - **Test infrastructure.** Sped up ONNX per-layer testing with [result caching](https://github.com/synaptics-torq/torq-compiler/commit/c4947ee10bb48367160d0acdfb458d1ce66b38d9) and [lazy model loading](https://github.com/synaptics-torq/torq-compiler/commit/76285f5d466b5a79ae0a347d4d184f3d05759961).
 
 ### Languages
-**Core**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
