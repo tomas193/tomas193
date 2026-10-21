@@ -2,7 +2,6 @@
 
 I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML Systems and Developer Tooling.
 - Cybernetic Electronics Engineering (2020-2024), CETYS Universidad.
-- I'm interested in AI, Compilers, Edge Computing and Software Infrastructure.
 - Contributed to the open-source [Torq Compiler](https://github.com/synaptics-torq) as [tomas-synaptics](https://github.com/tomas-synaptics). Highlights:
   - **Tooling.** Developed a tool for [static shape conversion of TFLite models](https://github.com/synaptics-torq/torq-tools/commit/4860ec7513dac7bb99295c94ed6a5724ac257e96), preparing neural networks for compilation (moved to the [torq-compiler](https://github.com/synaptics-torq/torq-compiler/blob/main/python/torq/lab/model_tools/shape_conversion/tflite.py) repo).
   - **Compiler optimization.** Added a transform that [rewrites `pow(x, 0.5)` as `sqrt`](https://github.com/synaptics-torq/torq-compiler/commit/2d6c61d5daf8d704f0cfe355c008e79f2bb66b53) to enable correct NSS hardware support.
