@@ -21,3 +21,5 @@ I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![8051 Assembly](https://img.shields.io/badge/8051%20Assembly-6E4C13)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=tomas193&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=prs_merged,reviews)
+
