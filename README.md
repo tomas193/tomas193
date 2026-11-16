@@ -9,7 +9,7 @@ I'm a Software Engineer with experience in Embedded Systems, Edge Computing, ML 
   - **Test infrastructure.** Sped up ONNX per-layer testing with [model caching](https://github.com/synaptics-torq/torq-compiler/commit/c4947ee10bb48367160d0acdfb458d1ce66b38d9) and [lazy model loading](https://github.com/synaptics-torq/torq-compiler/commit/76285f5d466b5a79ae0a347d4d184f3d05759961).
   - **Benchmarking dashboard.** Extended the compile-time benchmarking dashboard to [compare external chips against in-house targets](https://github.com/synaptics-torq/torq-compiler/commit/4f96d207e9239fa301e061680a022f223d29f05e), adding a selector in the UI and the test-infrastructure support to run those devices and persist their results.
 
-- Founder of [Cardify](https://github.com/cardify-mx) (since 2024), a school attendance and credential-management platform in production across multiple schools, built with Node, JavaScript and Python. ([website](https://cardify.mx))
+- Founder of [Cardify](https://github.com/cardify-mx) (since 2024), an attendance and credential-management platform in production across multiple organizations, built with Node, JavaScript and Python. ([website](https://cardify.mx))
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
